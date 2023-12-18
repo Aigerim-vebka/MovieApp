@@ -33,7 +33,7 @@
                 android:id="@+id/imageView"
                 android:adjustViewBounds="true"
                 android:scaleType="fitXY"
-                android:src="@drawable/canada"/>
+                android:src="@drawable/1"/>
 
             <LinearLayout
                 android:id="@+id/ll_progressbar"
