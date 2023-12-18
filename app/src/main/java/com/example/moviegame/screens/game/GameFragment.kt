@@ -1,4 +1,4 @@
-package com.example.flaggame.screens.game
+package com.example.moviegame.screens.game
 
 import android.graphics.Color
 import android.graphics.Typeface

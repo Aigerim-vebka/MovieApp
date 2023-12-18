@@ -1,4 +1,4 @@
-package com.example.flaggame.screens.title
+package com.example.moviegame.screens.title
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

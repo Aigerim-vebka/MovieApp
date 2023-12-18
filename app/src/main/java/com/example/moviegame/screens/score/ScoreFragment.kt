@@ -1,4 +1,4 @@
-package com.example.flaggame.screens.score
+package com.example.moviegame.screens.score
 
 import android.os.Bundle
 import android.util.Log
