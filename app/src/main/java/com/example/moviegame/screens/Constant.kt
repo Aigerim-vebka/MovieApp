@@ -100,22 +100,22 @@ object Constants {
 
         val que9 = Question(
             9,
-            "What country flag is this", R.drawable.canada,
-            "Denmark",
-            "Argentina",
-            "Canada",
-            "USA",
-            3
+            "Who owned the same cat from The Godfather?", R.cat,
+            "To Francis Coppola",
+            "Al Pacano",
+            "Mike Teavee",
+            "Nobody- the animal was homeless",
+            4
         )
 
 
         val que10 = Question(
             10,
-            "What country flag is this", R.drawable.india,
-            "India",
-            "Iran",
-            "Ireland",
-            "USA",
+            "Which film represents Kazakhstan at the Oscars in the \"Best Foreign Film\" category in 2021?", R.drawable.sheksiz,
+            "Sheksizdik",
+            "Step",
+            "Qairat",
+            "Kelin",
             1
         )
 
